@@ -18,27 +18,21 @@ layout:
 
 # Welcome
 
-We want to help **teams to work more efficiently** with a simple but powerful platform that helps them **share their knowledge**.
+We want to help **teams to work more efficiently** with a simple but powerful platform that helps them **share their knowledge**. Hello world
 
 Our mission is to make a **user-friendly** and **collaborative** product for everyone to create, edit and share knowledge through documentation.
 
 {% tabs %}
 {% tab title="First Tab" %}
-### Tab 1 head
-
-
+#### Tab 1 head
 {% endtab %}
 
 {% tab title="Second Tab" %}
-### tab 2
-
-
+#### tab 2
 {% endtab %}
 
 {% tab title="Untitled" %}
-### head 3
-
-
+#### head 3
 {% endtab %}
 {% endtabs %}
 
@@ -71,8 +65,6 @@ GitBook での知識のキャプチャーと洗練について学べます。
 #### アカウント管理
 
 組織、アカウント、および請求の管理について詳述します。
-
-
 
 ### Discover GitBook
 
